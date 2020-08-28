@@ -3,7 +3,7 @@
        <section id="courses">
             <br><br> <br>
         <div class="container">
-            <div class="card">
+            <div class="card"> 
   <div class="card-header">
    <h3>All Courses</h3>
   </div>
@@ -22,7 +22,7 @@
   </div>
   <div class="col mb-4">
     <div class="card">
-      <img src="http://www.technology-next.com/wp-content/uploads/2017/08/web-design.png" class="card-img-top" alt="...">
+      <img src="https://static.wixstatic.com/media/e1a444_46810480f85e459f83ba73aa1f448adb~mv2.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title">Web Design</h4>
         <p class="card-text text-justify">Web design encompasses many different skills and disciplines in the production and maintenance of websites.web design include web graphic design; interface design; authoring, including software.</p>
